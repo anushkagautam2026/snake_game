@@ -1,0 +1,1 @@
+SnakeGame_2k22_Co_81 is an immersive and classic console-based Snake game implemented in C++. Take a nostalgic journey into the realm of retro gaming as you navigate the iconic snake through a dynamic maze filled with challenges. The game features a well-designed grid-based environment with walls, obstacles, and a tantalizing goal to achieve.
